@@ -1,0 +1,13 @@
+#issMap {
+    height: 480px;
+  }
+
+  body {
+    background-image: url("/actionvance-t7EL2iG3jMc-unsplash.jpg");
+    background-size: cover;
+    color: antiquewhite;
+   }
+
+   h1{
+    text-align: center;
+   }
